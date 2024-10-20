@@ -139,7 +139,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 15vw;
+  width: 11vw;
   margin-right: 7px;
 }
 
@@ -194,11 +194,11 @@ a:focus {
 }
 
 .hero_img-container {
-  width: 55%;
+  width: 50%;
 }
 
 .hero_detail-box {
-  color: orangered;
+  color: rgb(68, 135, 235);
   font-weight: 800;
 }
 
