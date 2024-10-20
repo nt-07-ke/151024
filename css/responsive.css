@@ -4,7 +4,12 @@
     .top_container {
         height: auto;
     }
-
+    .hero_detail-box {
+        color: #fff;
+    }
+    .navbar-brand img {
+        width: 15vw;
+    } 
     .top_container.sub_pages {
         height: auto;
     }
@@ -159,7 +164,11 @@
 
 @media (max-width: 400px) {}
 
-@media (max-width: 360px) {}
+@media (max-width: 360px) {
+    .navbar-brand img {
+        width: 50vw;
+    } 
+}
 
 @media (min-width: 1200px) {
     .container {
