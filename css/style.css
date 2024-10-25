@@ -237,6 +237,24 @@ a:focus {
   color: #48494a;
 }
 
+#about, #motto-mission-vision {
+  padding: 60px 0;
+}
+
+.main-heading {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333; /* Adjust based on theme */
+}
+
+ul.list-unstyled {
+  font-size: 1.2rem;
+  padding-left: 0;
+}
+
+ul.list-unstyled li {
+  margin: 8px 0;
+}
 
 
 
